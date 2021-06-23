@@ -1,0 +1,9 @@
+Variables: sirve para guardar algo en alg[un lugar y pder recuperarlo m[as tarde.
+
+Strings: es un tipo de dato que es texto. Todo lo que este entre comillas es un string.
+
+Funciones: sirven para agrupar codigo y guardarlo para despues poder utilizarlo.
+
+if: sirve para poner una condicion a una funcion. 
+
+true y false: son valores booleanos que sirven para asignar solamente dos opciones. Activar o descativar, 0 o 1, verdadero o falso.
