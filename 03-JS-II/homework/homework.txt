@@ -1,0 +1,11 @@
+for: sirve para crear un bucle. Se debe definir una variable que es sobre lo que se repetira el bucle
+     despues va una condicion que es la que marcara hasta cuando se repetira el bucle
+     y por ultimo va la incrementacion de la variable.
+
+&&: es un operador que signficia and o y. Evalua ambas expresiones y devuelve true cuando
+    ambas son correctas. Si una expresion o las dos son incorrectas devuelve false.
+
+||: es un operador que significa o. Evalua ambas expresiones y devuelve true cuando una o ambas
+    expresiones son true. De lo contrario devuelve false.
+
+!: es un operador que significa no. Se escribe antes de la variable y devolvera el valor opuesto.
