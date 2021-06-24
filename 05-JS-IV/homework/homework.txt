@@ -1,0 +1,9 @@
+objetos y propiedades: es una coleccion de propiedades. Una propiedad es una asosiacion entre un nombre y un
+	               valor. Key:value. Sirve para modelar el mundo de manera mas simple y comprensiva.
+	               Las propiedades pueden ser cualquier tipo de datos.
+
+Metodos: Cuando una propiedad de una objeto es una funcion se le denomina metodo.
+
+Notacion: La notacion de puntos es mas rapida y facil que con corchetes. Simplemente se escribe el objeto.propiedad.
+	  La diferencia es que la notacion con puntos busca la propiedad dentro del objeto. No puede ser una variable.
+	  
