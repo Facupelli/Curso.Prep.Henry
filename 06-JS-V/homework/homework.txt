@@ -1,0 +1,6 @@
+prototype: Cada objeto tiene una referencia a otro objeto denominado prototipo. Un prototipo es un objeto con sus propias
+	   propiedades. Cuando uso un constructor lo que pasa es que el prototipo de los objetos que voy creando es el
+	   constructor.
+
+Constructors: Nos permite crear objetos. Se crea una funcion cuyo nombre debe empezar con letra mayuscula (esto determina
+	      que se trata de una funcion constructora). Luego utilizando el keyword new creamos muchos objetos rapidamente.
