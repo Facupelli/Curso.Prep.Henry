@@ -1,0 +1,3 @@
+callback: Es cuando se pasa como argumento de una funcion, otra funcion. Las funciones se pueden pasar por argumento a otras
+	  funciones, se pude retornar como resultado de otra funcion o guardarlas en variables u otras estructuras de datos.
+	  La funcion que es el argumento se denomina callback (cb).
