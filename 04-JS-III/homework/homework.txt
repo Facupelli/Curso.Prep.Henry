@@ -1,0 +1,3 @@
+arrays: es una coleccion de elementos. pueden incluirse cualquier tipo de datos, incluso otros 
+        arrays. Se pueden acceder a traves de un indice. Se define con brackets y los elementos 
+        van separados con coma.
